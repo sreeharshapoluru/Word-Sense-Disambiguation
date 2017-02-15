@@ -1,0 +1,273 @@
+Web presence From Wikipedia, the free encyclopedia
+A web presence is a location on the World Wide Web where a person, business, or some other entity is
+represented (see also web property and point of presence).
+Examples of a web presence for a person could be a personal website, a blog, a profile page, a wiki page, or a
+social media point of presence (e.g. a LinkedIn profile, a Facebook account, or a Twitter account). Examples of
+a web presence for a business or some other entity could be a corporate website, a microsite, a page on a review
+site, a wiki page, or a social media point of presence (e.g., a LinkedIn company page and/or group, a Facebook
+business/brand/product page, or a Twitter account).
+Every web presence is associated with a unique web address to distinguish one point of presence from another.
+Contents
+1 Owned vs. unowned web presence
+2 Web presence management
+2.1 Web presence management system
+2.2 Domain names
+3 Web presence discovery
+3.1 Brand protection
+3.2 Security
+3.3 Distributed inventory management
+4 Web presence monitoring
+4.1 Corporate, brand, and regulatory compliance
+5 Web presence audit
+5.1 Social media audit
+6 Web presence management vs. web reputation management
+7 See also
+8 References
+Owned vs. unowned web presence
+Web presence can either be owned or unowned. Owned media exists when a single person or group can control
+the content that is published on its web presence (e.g. a corporate website or a personal Twitter account).
+However, when a single person or group cannot solely control the content, the creator is different from the
+owner. This is considered unowned media (see earned media). A Wikipedia or Yelp page about a person,
+company, or product would be an example of an unowned (or "earned") web presence.
+Occasionally, a third form of media known as "paid media" is often included in the discussion of media types:
+"earned vs. owned vs. paid". Paid media is commonly found in the form of advertisements, but it is not
+considered a form of web presence.
+Web presence - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Web_presence
+1 of 6 2/16/2016 8:25 PM
+Web presence management
+Web presence management is the process of establishing and maintaining a digital footprint on the web. The
+three factors that are considered include the following: where a person or business has web presence; how each
+web presence represents its enterprise; and what is published at a point of presence.
+Web presence management is the discipline of determining and governing:
+the distribution of policy documents
+which platforms are most appropriate (e.g. internal vs. external blog, YouTube vs. Vimeo)
+the single inventory of personal or corporate web presence (e.g. partners or advocates)
+where on the web a business and any relatable assets are represented
+where on the web a business and any relatable assets are impersonated or pirated
+web properties with the particular entities they represent
+who has control over which web properties
+new web properties which are not in the personal or corporate inventory (e.g. someone creates a new
+presence)
+authorized and unauthorized changes to the creation (e.g. branding) of a web presence
+a workflow for creating a web property that follows its corporate standards
+Web presence management system
+The purpose of a web presence management system is to manage the web presence of a person or business. This
+includes the collection of domain names, websites, social media, and other web pages where he, she, or it is
+being represented. The tool generally offers the following key functions: new presence discovery, inventory
+management, change detection, access control, stakeholder coordination, and compliance workflow.
+A web presence management system is meant to have a broader reach so that it emphasizes where a presence
+has been established, will be established, must be maintained, or must be remediated. An example of a web
+presence management system is the Brandle Presence Manager.[1]
+In order to publish content to the various points of web presence, multiple content management systems and
+sometimes even social media management systems are often used. The primary focus of most content and social
+media management systems is limited to their specific web platforms.
+Domain names
+Another aspect of web presence management is managing the collection of domain names registered to the
+person or business. Any entity may register multiple domain names for the same property. As a result, they can
+link alternative spellings, different top-level domains, aliases, brands, or products to the same website.
+Similarly, negative or derogatory domain names may also be registered. This is done to prevent certain domain
+names from being used against the person or business.
+It is common for a larger business to have domain names registered by multiple employees at multiple domain
+name registrars, possibly a result of organizational or geographical requirements. Consequently, a web presence
+management system can be used to monitor all domain names registered by the business, regardless of the
+registrars used.
+Web presence - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Web_presence
+2 of 6 2/16/2016 8:25 PM
+Web presence discovery
+Web presence discovery is the process of monitoring the web for a new point of presence about a person or
+business. Web presence discovery is often included in a web presence management system. Whether a new
+domain is registered, a new website is published, or a new social media account is established, it occurs outside
+of the person’s or business’ control. As a result, its purpose is to assess a new point of presence and
+appropriately handle any violations.
+It is important to note that web presence discovery differs from content listening. The former involves looking
+for new properties on the web, whereas the latter refers to analyzing content that already exists to hear how a
+person or business is seen often in near real time. Examples of content listening systems include Sysomos and
+Radian6, which is now a subsidiary of Salesforce.com.
+Brand protection
+A person or business may choose to watch for a new web presence that might appear to misrepresent or mislead
+an audience, such as counterfeiters, spoofers, or malicious hackers. One of the early softwares in the online
+brand protection marketplace was MarkMonitor, now part of Thomson Reuters. This software helped detect
+rogue domain names and websites.
+However, the modern day growth of social media has seen a rise in the number of fraudulent brand
+impersonations. It has become much easier for a new web presence to be created on those platforms, which
+results in a greater frequency of them today.[2][3][4][5][6] As a preventative measure, online brand protection
+providers are now adding social media to their domain and website discovery options.
+Security
+The widespread growth of social media has also made it easier for unauthorized individuals to impersonate an
+employee. Consequently, social media has now become a recognized threat vector in that it can be used to
+socially engineer an attack on a business.[7][8] To counter this, companies are able to use web presence
+monitoring tools to detect new points of presence on the web and thereby defend against socially engineered
+attacks.[4][9][10][11][12]
+Distributed inventory management
+A web presence monitoring system can be used by a business to associate a new web property with its corporate
+inventory. It is designed to address autonomous, distributed behaviors. This usually applies to larger businesses
+whose geographically diverse employees are more prone to creating new points of presence on the web. For
+example, a retail chain may allow each local store to create and manage their web presence to market to and
+communicate with their local customer base.[13] Similarly, a global business may have teams in each country or
+region who create and manage a web presence to adapt to local languages or cultures.
+Web presence monitoring
+Web presence monitoring is the process of monitoring a known inventory of web presence to detect any changes
+that are made. Web presence monitoring is often included in a web presence management system and can serve
+multiple purposes for both larger corporations and certain individuals, such as celebrities.
+Web presence - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Web_presence
+3 of 6 2/16/2016 8:25 PM
+It is important to note that presence monitoring differs from content listening. The former involves monitoring
+the properties (e.g. branding) of a web property in an established inventory, whereas the latter refers to
+analyzing content that already exists to hear how a person or business is seen often in near real time.[14]
+Additionally, presence monitoring focuses on owned media and content listening on earned media.
+Corporate, brand, and regulatory compliance
+Many companies ensure that certain standards are met for a property on the web that represents their business.
+For companies in regulated industries, such as finance and healthcare, the company may be required by law to
+ensure that all publicized content, regardless of platform or technology, follow specific requirements.[15][16][17]
+The widespread growth of social media has seen a rise in the number of fraudulent corporate impersonations. It
+has become much easier for a new web presence to be created on these platforms, and so these are much more
+prevalent than they used to be.[18] As a preventative measure, a web presence monitoring system alerts the
+company when a known property is changed, allowing for the property to be reviewed and amended so that it
+follows the proper standards. .[18] A web presence monitoring system helps alert the company when a known
+property is changed, so it can be reviewed and brought back, if necessary, into compliance with the appropriate
+standards.
+Web presence audit
+A web presence audit is performed by an enterprise to determine that all points of presence on the web meet
+the objectives as well as governance, risk management, and compliance (GRC) needs. To ensure neutrality,
+these audits are often conducted as part of an information technology audit by a professional services agency or
+an internal audit team. However, a less formal web presence audit is often performed by internal members as a
+routine to meet GRC objectives.
+A web presence audit usually includes web presence discovery and a review of all web-based content in the
+business’ inventory of web presence. Even though web presence monitoring is not performed in a web presence
+audit, a review of the nature and scope of the company's web presence monitoring policies, procedures, and
+tools is considered.
+Social media audit
+Due to the emerging challenges introduced by the dynamic nature of social media, a business may choose to
+perform specific social media audits in greater frequency.[19][20] A social media audit is similar to a web
+presence audit, but may also include the purposes of maintaining an accurate inventory of all business social
+media points of presence. Alternatively, the business may choose to employ automated web presence discovery
+and compliance systems to keep the corporate social media inventory up-to-date and compliant with GRC
+needs.
+Web presence management vs. web reputation management
+Reputation management systems are often associated with web presence management. Web presence
+management is knowing where an individual or business is represented, whereas reputation management is
+knowing what people are saying about an individual or business. Web presence management handles owned
+media, while reputation management systems with earned media.
+Web presence - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Web_presence
+4 of 6 2/16/2016 8:25 PM
+Both systems offer some similar degree of remediation. For web presence management systems, remediation
+would include finding counterfeit properties that infringe on a brand or trademark. For reputation management
+systems, remediation would include identifying and eliminating misleading reviews and/or encouraging the
+contribution of authentic comments.
+Even though a web presence monitoring tool can help identify unowned web properties where people are
+talking about a person, product, or brand, it is only part of the solution. A reputation management system often
+includes a content listening system to monitor the stream of messages about a particular subject which may be
+coming from any point of presence on the web (e.g. a comment about a product by a customer on her personal
+Twitter account). An example of a reputation management service is Reputation.com.[21]
+See also
+Digital footprint
+Domain name
+Domain name system
+Earned vs. Owned vs. Paid
+media
+Internet presence
+management
+Microsite
+Online identity management
+Online presence management
+Online reputation
+management
+Web Point of presence
+Social media
+Social media measurement
+Social networking service
+Web address
+Web page
+Web property
+Website
+References
+Roberson, Chip. "Social Content vs. Social Presence -
+Don't neglect your social footprint" . Brandle, Inc.
+Retrieved 12 August 2015.
+1.
+"Reputation@Risk - 2014 global survey on reputation
+risk" (PDF). Deloitte. Deloitte. Retrieved
+12 August 2015.
+2.
+"Global Risk Management Survey 2015" . AON.
+AON. Retrieved 12 August 2015.
+3.
+"17th Annual Global CEO Survey" . PwC. PwC.
+Retrieved 12 August 2015.
+4.
+http://www.ey.com/US/en/Issues/Governanceand-
+reporting/Audit-Committee/BoardMatters-
+Quarterly---April-2014---4---The-businessof-
+social-media
+5.
+"Board Matters Quarterly - Critical insights for
+today’s audit committee" (PDF). Ernst & Young
+LLP. Retrieved 12 August 2015.
+6.
+Hinkley, Chris. "Social Media Makes Way for Social
+Engineering" . SecurityWeek. Wired Business
+Media. Retrieved 12 August 2015.
+7.
+Bradley, Tony. "Think twice before you accept that
+'friend' request" . CSO. CXO Media, Inc. Retrieved
+12 August 2015.
+8.
+Foster, James. "A CISO's Nightmare: Digital Social
+Engineering" . SecurityWeek. Wired Business
+Media. Retrieved 12 August 2015.
+9.
+"Global Risk Management Survey 2015" . AON.
+AON. Retrieved 12 August 2015.
+10.
+"Security for social networking" (PDF). PwC.
+PwC. Retrieved 12 August 2015.
+11.
+Andreesen, Tom; Slemp, Cal. "Managing Risk in a
+Social Media-Driven Society" (PDF). Protiviti.
+Protiviti, Inc. Retrieved 12 August 2015.
+12.
+Roberson, Chip. "Social Media for the Retail Industry
+- Going Local and Liking It!" . Brandle. Brandle,
+Inc. Retrieved 12 August 2015.
+13.
+"2015 Survey of Bank Compliance Officers" .
+ABA. American Bankers Association. Retrieved
+12 August 2015.
+14.
+"Social Media: Consumer Compliance Risk
+Management Guidance" (PDF). FDIC. FFIEC.
+Retrieved 12 August 2015.
+15.
+"Social Media Compliance Isn’t Fun, But It’s
+Necessary" . Harvard Business Review. Harvard
+Business School Publishing. Retrieved 12 August
+2015.
+16.
+"Regulatory Notice 10-06" . FINRA. FINRA.
+Retrieved 12 August 2015.
+17.
+Church, Janet; Roberson, Chip. "Social Media Risks
+and Rewards" . Scotsman Guide. Scotsman Guide
+Media. Retrieved 12 August 2015.
+18.
+Juergens, Michael. "Social Media Risks Create an
+Expanded Role for Internal Audit" . Wall Street
+Journal. Retrieved 10 August 2015.
+19.
+Web presence - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Web_presence
+5 of 6 2/16/2016 8:25 PM
+Dowie, Jon. "EMERGING TECHNOLOGY RISKS -
+Social Media - Internal Audit’s response" (PDF).
+KPMG. Retrieved 10 August 2015.
+20. "Reputation.com" . Reputation.com. Retrieved
+19 October 2015.
+21.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Web_presence&oldid=704768391"
+Categories: Marketing Internet marketing Social media Corporate governance Risk management
+Information technology audit Business software
+This page was last modified on 13 February 2016, at 13:42.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may
+apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Web presence - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Web_presence
+6 of 6 2/16/2016 8:25 PM
